@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg3760" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<svg height="22" id="svg3760" version="1.1" width="22" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <defs id="defs3762">
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text {
         color:#4d4d4d;
       }
       .ColorScheme-Background {
@@ -34,18 +35,24 @@
       }
       .ColorScheme-ButtonFocus{
         color:#3daee9;
-      }</style>
+      }
+  </style>
  </defs>
  <metadata id="metadata3765">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
+  <rdf:rdf>
+   <cc:work rdf:about="">
+    <dc:format>
+     image/svg+xml
+    </dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage">
+    </dc:type>
+    <dc:title>
+    </dc:title>
+   </cc:work>
+  </rdf:rdf>
  </metadata>
  <g id="layer1" transform="translate(-553.72 -583.12)">
-  <path id="rect4148-2" opacity=".5" style="color:#4d4d4d" d="m564.72 589.12-2 4h4l-2-4zm-4 6-4 2 4 2v-4zm8 0v4l4-2-4-2zm-4 1c-0.554 0-1 0.446-1 1s0.446 1 1 1 1-0.446 1-1-0.446-1-1-1z" class="ColorScheme-Text"/>
+  <path class="ColorScheme-Text" d="m564.72 589.12-2 4h4l-2-4zm-4 6-4 2 4 2v-4zm8 0v4l4-2-4-2zm-4 1c-0.554 0-1 0.446-1 1s0.446 1 1 1 1-0.446 1-1-0.446-1-1-1z" id="rect4148-2" style="fill:currentColor">
+  </path>
  </g>
 </svg>

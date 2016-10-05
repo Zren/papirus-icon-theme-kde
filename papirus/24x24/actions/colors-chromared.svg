@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg3049" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<svg height="24" id="svg3049" version="1.1" width="24" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <defs id="defs3051">
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text {
         color:#4d4d4d;
       }
       .ColorScheme-Background {
@@ -34,27 +35,40 @@
       }
       .ColorScheme-ButtonFocus{
         color:#3daee9;
-      }</style>
+      }
+  </style>
   <filter id="filter7554" style="color-interpolation-filters:sRGB">
-   <feBlend id="feBlend7556" mode="darken" in2="BackgroundImage"/>
+   <feblend id="feBlend7556" in2="BackgroundImage" mode="darken">
+   </feblend>
   </filter>
  </defs>
  <metadata id="metadata3054">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
+  <rdf:rdf>
+   <cc:work rdf:about="">
+    <dc:format>
+     image/svg+xml
+    </dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage">
+    </dc:type>
+    <dc:title>
+    </dc:title>
+   </cc:work>
+  </rdf:rdf>
  </metadata>
  <g id="layer1" transform="translate(-421.71 -523.79)">
-  <rect id="rect4035" style="color:#4d4d4d" class="ColorScheme-Text" height="11" width="0" y="534.79" x="404.71" fill="currentColor"/>
-  <rect id="rect4035-5" style="color:#4d4d4d" class="ColorScheme-Text" height="11" width="0" y="532.74" x="422.76" fill="currentColor"/>
-  <rect id="rect4035-8" style="color:#4d4d4d" class="ColorScheme-Text" height="11" width="0" y="534.79" x="404.71" fill="currentColor"/>
-  <rect id="rect4035-59" style="color:#4d4d4d" class="ColorScheme-Text" height="11" width="0" y="534.79" x="404.71" fill="currentColor"/>
-  <path id="path4166" style="color:#000000;text-decoration-line:none" d="m433.71 528.79c-1.3398 4.4546-5 7.0853-5 9.5454 0 2.4602 2.2386 4.4546 5 4.4546s5-1.9944 5-4.4546-3.6602-5.0909-5-9.5454z" fill="#e74c3c"/>
-  <g id="layer1-9" transform="translate(-15.423 1.1639)"></g>
-  <g id="g4265" style="enable-background:new" transform="translate(370.35 525.45)"></g>
+  <rect class="ColorScheme-Text" fill="currentColor" height="11" id="rect4035" style="color:#4d4d4d" width="0" x="404.71" y="534.79">
+  </rect>
+  <rect class="ColorScheme-Text" fill="currentColor" height="11" id="rect4035-5" style="color:#4d4d4d" width="0" x="422.76" y="532.74">
+  </rect>
+  <rect class="ColorScheme-Text" fill="currentColor" height="11" id="rect4035-8" style="color:#4d4d4d" width="0" x="404.71" y="534.79">
+  </rect>
+  <rect class="ColorScheme-Text" fill="currentColor" height="11" id="rect4035-59" style="color:#4d4d4d" width="0" x="404.71" y="534.79">
+  </rect>
+  <path class="ColorScheme-Text" d="m433.71 528.79c-1.3398 4.4546-5 7.0853-5 9.5454 0 2.4602 2.2386 4.4546 5 4.4546s5-1.9944 5-4.4546-3.6602-5.0909-5-9.5454z" fill="#e74c3c" id="path4166" style="fill:currentColor">
+  </path>
+  <g id="layer1-9" transform="translate(-15.423 1.1639)">
+  </g>
+  <g id="g4265" style="enable-background:new" transform="translate(370.35 525.45)">
+  </g>
  </g>
 </svg>

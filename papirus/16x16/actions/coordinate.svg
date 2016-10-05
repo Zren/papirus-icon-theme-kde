@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg3760" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<svg height="16" id="svg3760" version="1.1" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <defs id="defs3762">
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text {
         color:#4d4d4d;
       }
       .ColorScheme-Background {
@@ -34,18 +35,24 @@
       }
       .ColorScheme-ButtonFocus{
         color:#3daee9;
-      }</style>
+      }
+  </style>
  </defs>
  <metadata id="metadata3765">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
+  <rdf:rdf>
+   <cc:work rdf:about="">
+    <dc:format>
+     image/svg+xml
+    </dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage">
+    </dc:type>
+    <dc:title>
+    </dc:title>
+   </cc:work>
+  </rdf:rdf>
  </metadata>
  <g id="layer1" transform="translate(-551.29 -613.65)">
-  <path id="path4994-4-82" opacity=".5" style="color-rendering:auto;text-decoration-color:#000000;color:#4d4d4d;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;text-decoration-style:solid;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none" d="m4.0781 1v9 0.209l-3.0781 3.08v1.402c1.1965-1.193 2.971-2.961 3.7109-3.703l10.289 0.01v-0.998h-9.9219v-9h-1z" fill-rule="evenodd" transform="translate(551.29 613.65)"/>
+  <path class="ColorScheme-Text" d="m4.0781 1v9 0.209l-3.0781 3.08v1.402c1.1965-1.193 2.971-2.961 3.7109-3.703l10.289 0.01v-0.998h-9.9219v-9h-1z" fill-rule="evenodd" id="path4994-4-82" style="fill:currentColor" transform="translate(551.29 613.65)">
+  </path>
  </g>
 </svg>

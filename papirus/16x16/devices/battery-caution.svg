@@ -1,27 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   viewBox="0 0 16 16"
-   id="svg3487"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="battery-caution.svg">
-  <defs
-     id="defs3489">
-    <style
-       type="text/css"
-       id="current-color-scheme">
-      .ColorScheme-Text {
+<svg height="16" id="svg3487" inkscape:version="0.91 r13725" sodipodi:docname="battery-caution.svg" version="1.1" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg">
+ <defs id="defs3489">
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text {
         color:#7B7C7E;
       }
       .ColorScheme-Background{
@@ -54,58 +36,29 @@
       .ColorScheme-ButtonFocus{
         color:#1E92FF;
       }
-</style>
-  </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="18.55"
-     inkscape:cx="20.364185"
-     inkscape:cy="1.6980215"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     units="px"
-     inkscape:window-width="1548"
-     inkscape:window-height="846"
-     inkscape:window-x="52"
-     inkscape:window-y="30"
-     inkscape:window-maximized="1" />
-  <metadata
-     id="metadata3492">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-1036.3622)">
-    <path
-       style="color:#7b7c7e;opacity:1;fill:#e74c3c;fill-opacity:1;stroke:none"
-       d="m 6,1037.3622 0,1 -3,0 0,13 10,0 0,-13 -3,0 0,-1 -4,0 z"
-       id="path3553" />
-    <g
-       transform="translate(-9.9757412,1042.9202)"
-       id="konv_message">
-      <rect
-         y="2"
-         x="0"
-         height="22"
-         width="22"
-         id="rect3009"
-         style="fill:#ffffff;fill-opacity:0.01000001;stroke:none" />
-    </g>
+  </style>
+ </defs>
+ <sodipodi:namedview bordercolor="#666666" borderopacity="1.0" id="base" inkscape:current-layer="layer1" inkscape:cx="20.364185" inkscape:cy="1.6980215" inkscape:document-units="px" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="846" inkscape:window-maximized="1" inkscape:window-width="1548" inkscape:window-x="52" inkscape:window-y="30" inkscape:zoom="18.55" pagecolor="#ffffff" showgrid="false" units="px">
+ </sodipodi:namedview>
+ <metadata id="metadata3492">
+  <rdf:rdf>
+   <cc:work rdf:about="">
+    <dc:format>
+     image/svg+xml
+    </dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage">
+    </dc:type>
+    <dc:title>
+    </dc:title>
+   </cc:work>
+  </rdf:rdf>
+ </metadata>
+ <g id="layer1" inkscape:groupmode="layer" inkscape:label="Layer 1" transform="translate(0,-1036.3622)">
+  <path class="ColorScheme-Text" d="m 6,1037.3622 0,1 -3,0 0,13 10,0 0,-13 -3,0 0,-1 -4,0 z" id="path3553" style="fill:currentColor">
+  </path>
+  <g id="konv_message" transform="translate(-9.9757412,1042.9202)">
+   <rect height="22" id="rect3009" style="fill:#ffffff;fill-opacity:0.01000001;stroke:none" width="22" x="0" y="2">
+   </rect>
   </g>
+ </g>
 </svg>

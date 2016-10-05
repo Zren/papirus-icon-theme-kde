@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg4355" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<svg height="16" id="svg4355" version="1.1" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <defs id="defs4357">
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text {
         color:#4d4d4d;
       }
       .ColorScheme-Background {
@@ -34,18 +35,24 @@
       }
       .ColorScheme-ButtonFocus{
         color:#3daee9;
-      }</style>
+      }
+  </style>
  </defs>
  <metadata id="metadata4360">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
+  <rdf:rdf>
+   <cc:work rdf:about="">
+    <dc:format>
+     image/svg+xml
+    </dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage">
+    </dc:type>
+    <dc:title>
+    </dc:title>
+   </cc:work>
+  </rdf:rdf>
  </metadata>
  <g id="layer1" transform="translate(-544.57 -748.93)">
-  <path id="path4196" opacity=".5" style="color:#4d4d4d" d="m545.57 749.93v14h1 2 8 2 1v-14h-1-2-8-2-1zm3 1h8v5h-8v-5zm-2 1h1v1h-1v-1zm11 0h1v1h-1v-1zm-11 3h1v1h-1v-1zm11 0h1v1h-1v-1zm-11 3h1v1h-1v-1zm2 0h8v5h-8v-5zm9 0h1v1h-1v-1zm-11 3h1v1h-1v-1zm11 0h1v1h-1v-1z"/>
+  <path class="ColorScheme-Text" d="m545.57 749.93v14h1 2 8 2 1v-14h-1-2-8-2-1zm3 1h8v5h-8v-5zm-2 1h1v1h-1v-1zm11 0h1v1h-1v-1zm-11 3h1v1h-1v-1zm11 0h1v1h-1v-1zm-11 3h1v1h-1v-1zm2 0h8v5h-8v-5zm9 0h1v1h-1v-1zm-11 3h1v1h-1v-1zm11 0h1v1h-1v-1z" id="path4196" style="fill:currentColor">
+  </path>
  </g>
 </svg>

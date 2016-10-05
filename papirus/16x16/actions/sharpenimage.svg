@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 16 16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<svg height="16" id="svg2" version="1.1" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <defs id="defs4">
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text {
         color:#4d4d4d;
       }
       .ColorScheme-Background {
@@ -34,30 +35,48 @@
       }
       .ColorScheme-ButtonFocus{
         color:#3daee9;
-      }</style>
+      }
+  </style>
  </defs>
  <metadata id="metadata7">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
+  <rdf:rdf>
+   <cc:work rdf:about="">
+    <dc:format>
+     image/svg+xml
+    </dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage">
+    </dc:type>
+    <dc:title>
+    </dc:title>
+   </cc:work>
+  </rdf:rdf>
  </metadata>
  <g id="layer1" transform="translate(1 -1037.4)">
-  <rect id="rect4035" style="color:#4d4d4d" class="ColorScheme-Text" height="11" width="0" y="1035" x="-37.468" fill="currentColor"/>
-  <rect id="rect4035-5" style="color:#4d4d4d" class="ColorScheme-Text" height="11" width="0" y="1032.9" x="-19.427" fill="currentColor"/>
-  <rect id="rect4035-8" style="color:#4d4d4d" class="ColorScheme-Text" height="11" width="0" y="1035" x="-37.468" fill="currentColor"/>
-  <rect id="rect4035-59" style="color:#4d4d4d" class="ColorScheme-Text" height="11" width="0" y="1035" x="-37.468" fill="currentColor"/>
-  <rect id="rect4035-6" style="color:#4d4d4d" class="ColorScheme-Text" height="11" width="0" y="1030.1" x="-44.776" fill="currentColor"/>
-  <rect id="rect4035-5-1" style="color:#4d4d4d" class="ColorScheme-Text" height="11" width="0" y="1028.1" x="-26.736" fill="currentColor"/>
-  <rect id="rect4035-8-3" style="color:#4d4d4d" class="ColorScheme-Text" height="11" width="0" y="1030.1" x="-44.776" fill="currentColor"/>
-  <rect id="rect4035-59-4" style="color:#4d4d4d" class="ColorScheme-Text" height="11" width="0" y="1030.1" x="-44.776" fill="currentColor"/>
-  <rect id="rect4035-1" style="color:#4d4d4d" class="ColorScheme-Text" height="11" width="0" y="1034.4" x="-38.761" fill="currentColor"/>
-  <rect id="rect4035-5-0" style="color:#4d4d4d" class="ColorScheme-Text" height="11" width="0" y="1032.3" x="-20.72" fill="currentColor"/>
-  <rect id="rect4035-8-1" style="color:#4d4d4d" class="ColorScheme-Text" height="11" width="0" y="1034.4" x="-38.761" fill="currentColor"/>
-  <rect id="rect4035-59-1" style="color:#4d4d4d" class="ColorScheme-Text" height="11" width="0" y="1034.4" x="-38.761" fill="currentColor"/>
-  <path id="path3006" opacity=".5" style="color:#4d4d4d" d="m7 1037.4-7 16h14zm4.1562 13 0.84375 2h-10s9-2 9.1562-2z" class="ColorScheme-Text"/>
+  <rect class="ColorScheme-Text" fill="currentColor" height="11" id="rect4035" style="color:#4d4d4d" width="0" x="-37.468" y="1035">
+  </rect>
+  <rect class="ColorScheme-Text" fill="currentColor" height="11" id="rect4035-5" style="color:#4d4d4d" width="0" x="-19.427" y="1032.9">
+  </rect>
+  <rect class="ColorScheme-Text" fill="currentColor" height="11" id="rect4035-8" style="color:#4d4d4d" width="0" x="-37.468" y="1035">
+  </rect>
+  <rect class="ColorScheme-Text" fill="currentColor" height="11" id="rect4035-59" style="color:#4d4d4d" width="0" x="-37.468" y="1035">
+  </rect>
+  <rect class="ColorScheme-Text" fill="currentColor" height="11" id="rect4035-6" style="color:#4d4d4d" width="0" x="-44.776" y="1030.1">
+  </rect>
+  <rect class="ColorScheme-Text" fill="currentColor" height="11" id="rect4035-5-1" style="color:#4d4d4d" width="0" x="-26.736" y="1028.1">
+  </rect>
+  <rect class="ColorScheme-Text" fill="currentColor" height="11" id="rect4035-8-3" style="color:#4d4d4d" width="0" x="-44.776" y="1030.1">
+  </rect>
+  <rect class="ColorScheme-Text" fill="currentColor" height="11" id="rect4035-59-4" style="color:#4d4d4d" width="0" x="-44.776" y="1030.1">
+  </rect>
+  <rect class="ColorScheme-Text" fill="currentColor" height="11" id="rect4035-1" style="color:#4d4d4d" width="0" x="-38.761" y="1034.4">
+  </rect>
+  <rect class="ColorScheme-Text" fill="currentColor" height="11" id="rect4035-5-0" style="color:#4d4d4d" width="0" x="-20.72" y="1032.3">
+  </rect>
+  <rect class="ColorScheme-Text" fill="currentColor" height="11" id="rect4035-8-1" style="color:#4d4d4d" width="0" x="-38.761" y="1034.4">
+  </rect>
+  <rect class="ColorScheme-Text" fill="currentColor" height="11" id="rect4035-59-1" style="color:#4d4d4d" width="0" x="-38.761" y="1034.4">
+  </rect>
+  <path class="ColorScheme-Text" d="m7 1037.4-7 16h14zm4.1562 13 0.84375 2h-10s9-2 9.1562-2z" id="path3006" style="fill:currentColor">
+  </path>
  </g>
 </svg>

@@ -1,31 +1,50 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="enable-background:new" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="24" width="24" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<svg height="24" id="svg7384" style="enable-background:new" version="1.1" width="24" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <metadata id="metadata90">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title>Paper Symbolic Icon Theme</dc:title>
-   </cc:Work>
-  </rdf:RDF>
+  <rdf:rdf>
+   <cc:work rdf:about="">
+    <dc:format>
+     image/svg+xml
+    </dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage">
+    </dc:type>
+    <dc:title>
+     Paper Symbolic Icon Theme
+    </dc:title>
+   </cc:work>
+  </rdf:rdf>
  </metadata>
- <title id="title8473">Paper Symbolic Icon Theme</title>
+ <title id="title8473">
+  Paper Symbolic Icon Theme
+ </title>
  <defs id="defs7386">
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#555555; }
+  </style>
   <filter id="filter7554" style="color-interpolation-filters:sRGB">
-   <feBlend id="feBlend7556" in2="BackgroundImage" mode="darken"/>
+   <feblend id="feBlend7556" in2="BackgroundImage" mode="darken">
+   </feblend>
   </filter>
  </defs>
  <g id="g6058" transform="translate(-564,-508)">
   <g id="g4156" transform="translate(4.0083 4)">
-   <path id="path6716" opacity=".5" style="color:#000000;text-indent:0;block-progression:tb;text-decoration-line:none;enable-background:new;text-transform:none" d="m567 509c-2.25 0-2 2-2 2v12h14v-1-11c0-2-2-2-2-2zm0 2h10v8.3125 0.84375 0.84375h-10v-0.84375-1.6562z"/>
-   <rect id="rect4225" opacity=".5" height="2" width="2" y="515" x="571"/>
-   <rect id="rect4227" opacity=".5" height="2" width="2" y="515" x="574"/>
-   <rect id="rect4229" opacity=".5" height="2" width="2" y="515" x="568"/>
-   <rect id="rect4308" opacity=".5" height="2" width="2" y="512" x="571"/>
-   <rect id="rect4310" opacity=".5" height="2" width="2" y="512" x="574"/>
-   <rect id="rect4312" opacity=".5" height="2" width="2" y="512" x="568"/>
-   <rect id="rect4314" opacity=".5" height="2" width="2" y="518" x="568"/>
+   <path class="ColorScheme-Text" d="m567 509c-2.25 0-2 2-2 2v12h14v-1-11c0-2-2-2-2-2zm0 2h10v8.3125 0.84375 0.84375h-10v-0.84375-1.6562z" id="path6716" style="fill:currentColor">
+   </path>
+   <rect height="2" id="rect4225" opacity=".5" width="2" x="571" y="515">
+   </rect>
+   <rect height="2" id="rect4227" opacity=".5" width="2" x="574" y="515">
+   </rect>
+   <rect height="2" id="rect4229" opacity=".5" width="2" x="568" y="515">
+   </rect>
+   <rect height="2" id="rect4308" opacity=".5" width="2" x="571" y="512">
+   </rect>
+   <rect height="2" id="rect4310" opacity=".5" width="2" x="574" y="512">
+   </rect>
+   <rect height="2" id="rect4312" opacity=".5" width="2" x="568" y="512">
+   </rect>
+   <rect height="2" id="rect4314" opacity=".5" width="2" x="568" y="518">
+   </rect>
   </g>
  </g>
 </svg>
